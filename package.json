@@ -1,5 +1,5 @@
 {
-  "name": "fullstack-node-boilerplate-server",
+  "name": "mock-api",
   "version": "0.0.9",
   "main": "index.js",
   "scripts": {
